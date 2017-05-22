@@ -1,6 +1,6 @@
-Jabberwocky
+﻿Jabberwocky
 
-by Lewis Carroll
+by Lewis Carroll and his good friend Tank
 
 ’Twas brillig, and the slithy toves 
       Did gyre and gimble in the wabe: 
